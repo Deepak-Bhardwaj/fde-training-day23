@@ -1,0 +1,9 @@
+source,physical_field,physical_meaning,candidate_canonical,issue
+AIS_PROVIDER_A,reported_imo,IMO number reported by external AIS provider,Vessel.external_imo_observation,may conflict with internal registry
+FLEET_REGISTRY,vessel_id,internal fleet identifier,Vessel.canonical_id,not globally portable
+PORT_API,berth_state,provider API state,PortConstraint.berth_status_observation,AVAILABLE may not mean legally/operationally confirmed
+PORT_NOTICE_DOC,berth_state,signed notice state,PortConstraint.berth_status_observation,document status/version matters
+VESSEL_TELEMETRY,source_event_time,edge-observed event time,Observation.event_time,ship clock can drift
+SATCOM_MONITOR,state,connectivity state,ConnectivityState.status,DEGRADED vs OFFLINE affects available workflows
+CMMS,condition,equipment condition / hold state,MaintenanceConstraint.state,release authority separate from observation
+RECOVERY_LOG,accepted,operator accepted recommendation,Interaction.accepted_assistance,not ground truth or policy approval by itself

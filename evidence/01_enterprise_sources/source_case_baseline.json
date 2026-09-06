@@ -1,0 +1,15 @@
+{
+  "source": "Original Participant_Case_Study_Stages_1_to_8_and_Build.docx",
+  "population_note": "larger operating benchmark; not the 140-row workshop fixture",
+  "disruptions_n": 384,
+  "event_incidents_n": 1920,
+  "audit_sample_n": 250,
+  "api_retry_sample_n": 120,
+  "median_disruption_to_recovery_plan_minutes": 94,
+  "p90_recovery_plan_minutes": 286,
+  "manual_duplicate_reconciliation_pct": 14.8,
+  "late_port_or_cargo_revision_pct": 22.1,
+  "satellite_blackout_gt60_pct": 9.6,
+  "incomplete_vessel_to_shore_rationale_trace_pct": 18.4,
+  "average_external_api_retries_per_active_disruption": 37
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 140,
+  "unique_vessels": 31,
+  "median_plan_time_minutes": 70.0,
+  "p90_plan_time_minutes": 141,
+  "duplicate_reconciliation_pct": 14.286,
+  "late_constraint_revision_pct": 23.571,
+  "blackout_gt60_pct": 31.429,
+  "rationale_trace_missing_pct": 19.286,
+  "average_api_retries": 35.35,
+  "navigation_restricted_pct": 8.571,
+  "shore_link_unavailable_pct": 8.571
+}

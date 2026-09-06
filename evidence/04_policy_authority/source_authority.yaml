@@ -1,0 +1,22 @@
+sources:
+- source: FLEET_REGISTRY
+  authority: canonical fleet vessel identity
+  precedence: HIGH
+- source: AIS_PROVIDER_A
+  authority: external position/identity observation only
+  precedence: OBSERVATION
+- source: PORT_NOTICE_DOC
+  authority: signed port constraint notice when current/authentic
+  precedence: HIGH_FOR_PORT_CONSTRAINT
+- source: PORT_API
+  authority: provider status observation
+  precedence: MEDIUM
+- source: CMMS
+  authority: maintenance hold state
+  precedence: HIGH_FOR_TECHNICAL_CONSTRAINT
+- source: ACTIVE_FLEET_POLICY
+  authority: current policy/authority rules
+  precedence: HIGHEST_FOR_POLICY
+- source: AI_OUTPUT
+  authority: none; recommendation/draft only
+  precedence: NON_AUTHORITATIVE

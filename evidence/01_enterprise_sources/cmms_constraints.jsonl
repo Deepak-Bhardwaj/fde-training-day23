@@ -1,0 +1,15 @@
+{"case_id": "MFD-L001", "vessel_id": "V-06", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T06:05:00Z"}
+{"case_id": "MFD-L002", "vessel_id": "V-14", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T06:18:00Z"}
+{"case_id": "MFD-L003", "vessel_id": "V-15", "equipment": "MAIN_ENGINE", "condition": "CRITICAL_HOLD", "work_order_id": "WO-CRIT-003", "authorized_release_role": "CHIEF_ENGINEER", "source_update_time": "2026-09-15T06:27:00Z"}
+{"case_id": "MFD-L004", "vessel_id": "V-16", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T06:40:00Z"}
+{"case_id": "MFD-L005", "vessel_id": "V-19", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T06:52:00Z"}
+{"case_id": "MFD-L006", "vessel_id": "V-21", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T07:05:00Z"}
+{"case_id": "MFD-L007", "vessel_id": "V-22", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T07:14:00Z"}
+{"case_id": "MFD-L008", "vessel_id": "V-24", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T07:25:00Z"}
+{"case_id": "MFD-L009", "vessel_id": "V-27", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T07:31:00Z"}
+{"case_id": "MFD-L010", "vessel_id": "V-28", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T07:44:00Z"}
+{"case_id": "MFD-L011", "vessel_id": "V-30", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T07:58:00Z"}
+{"case_id": "MFD-L012", "vessel_id": "V-31", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T08:08:00Z"}
+{"case_id": "MFD-L013", "vessel_id": "V-33", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T08:20:00Z"}
+{"case_id": "MFD-L014", "vessel_id": "V-35", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T08:33:00Z"}
+{"case_id": "MFD-L015", "vessel_id": "V-36", "equipment": "AUXILIARY", "condition": "NORMAL", "work_order_id": "", "authorized_release_role": "", "source_update_time": "2026-09-15T08:47:00Z"}

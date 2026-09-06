@@ -1,0 +1,29 @@
+rules:
+- data_class: cargo_customer
+  allowed_roles:
+  - MASTER
+  - FLEET_CONTROLLER
+  - COMMERCIAL_PLANNER
+  purpose: active voyage recovery only
+  model_context: MINIMIZE
+- data_class: crew_personal
+  allowed_roles:
+  - MASTER
+  - CHIEF_ENGINEER
+  - FLEET_CONTROLLER
+  purpose: operational constraint only
+  model_context: CONSTRAINT_ONLY
+- data_class: vessel_telemetry
+  allowed_roles:
+  - MASTER
+  - CHIEF_ENGINEER
+  - FLEET_CONTROLLER
+  - SAFETY_OFFICER
+  purpose: fleet/vessel operational support
+  model_context: PERMITTED
+- data_class: historical_decisions
+  allowed_roles:
+  - FLEET_CONTROLLER
+  - SAFETY_OFFICER
+  purpose: controlled decision memory/evaluation
+  model_context: FILTERED

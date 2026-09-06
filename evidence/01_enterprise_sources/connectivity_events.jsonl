@@ -1,0 +1,15 @@
+{"case_id": "MFD-L001", "vessel_id": "V-06", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T06:05:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L002", "vessel_id": "V-14", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T06:18:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L003", "vessel_id": "V-15", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T06:27:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L004", "vessel_id": "V-16", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T06:40:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L005", "vessel_id": "V-19", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T06:52:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L006", "vessel_id": "V-21", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T07:05:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L007", "vessel_id": "V-22", "state": "DEGRADED", "outage_minutes": 18, "bandwidth_kbps": 64, "last_healthy_time": "2026-09-15T07:14:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L008", "vessel_id": "V-24", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T07:25:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L009", "vessel_id": "V-27", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T07:31:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L010", "vessel_id": "V-28", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T07:44:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L011", "vessel_id": "V-30", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T07:58:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L012", "vessel_id": "V-31", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T08:08:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L013", "vessel_id": "V-33", "state": "ONLINE", "outage_minutes": 0, "bandwidth_kbps": 512, "last_healthy_time": "2026-09-15T08:20:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L014", "vessel_id": "V-35", "state": "OFFLINE", "outage_minutes": 240, "bandwidth_kbps": 0, "last_healthy_time": "2026-09-15T08:33:00Z", "source": "SATCOM_MONITOR"}
+{"case_id": "MFD-L015", "vessel_id": "V-36", "state": "RECONNECTING", "outage_minutes": 96, "bandwidth_kbps": 64, "last_healthy_time": "2026-09-15T08:47:00Z", "source": "SATCOM_MONITOR"}

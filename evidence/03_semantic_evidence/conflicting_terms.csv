@@ -1,0 +1,9 @@
+term,source_or_team,meaning,must_not_be_confused_with
+available,Port API,provider says berth resource currently open,confirmed berth clearance
+available,Crew,person can participate under current roster/rest constraints,general employee availability
+approved,Fleet console,fleet controller accepted a coordination plan,Master navigational authorization
+recovery option,AI/optimizer,candidate plan satisfying currently known constraints,committed action
+fresh,Runtime context,within source-specific usability threshold for the task,most recently retrieved record
+event time,Vessel edge,time according to originating system clock,ingestion time or normalized causal order
+disruption,Fleet ops,operational deviation requiring assessment,every anomaly/alert
+ground truth,Post-event review,adjudicated fact/outcome with evidence,accepted AI recommendation

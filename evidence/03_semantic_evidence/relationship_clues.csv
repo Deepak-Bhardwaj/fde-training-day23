@@ -1,0 +1,9 @@
+subject,relationship,object,temporal,clue
+Vessel,assigned_to,Voyage,yes,voyage schedule
+Voyage,destined_for,Port,yes,voyage schedule
+DisruptionCase,affects,Voyage,yes,live disruptions
+Observation,observes,Vessel_or_Constraint,yes,AIS/telemetry/port/weather feeds
+RecoveryOption,constrained_by,OperationalConstraint,yes,policy + evidence
+RecoveryOption,requires_approval_from,AuthorityRole,yes,authority policy
+DecisionTrace,used_evidence,EvidenceRecord,yes,trace standard
+CommittedAction,results_in,VoyageOutcome,yes,outcome history

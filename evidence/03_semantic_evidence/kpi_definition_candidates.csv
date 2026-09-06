@@ -1,0 +1,5 @@
+metric,candidate_definition,exclude,source_candidates,open_question
+disruption_to_recovery_plan_minutes,minutes from normalized disruption detection to first feasible recovery plan ready for authorized human review,time after plan readiness waiting solely for external execution,live event stream + recovery log,how to handle clock uncertainty
+plan_revision_due_late_constraint_pct,share of recovery plans materially revised because a relevant constraint arrived after first plan generation,cosmetic edits,decision history + source update times,materiality threshold
+duplicate_operational_action_rate,duplicate committed actions caused by replay/retry divided by committed actions,duplicate observations that are safely deduped,event stream + action log,dedupe key design
+evidence_freshness_completeness,share of material recommendations that expose freshness state for all material source classes,non-material evidence,decision traces,material source set per task
